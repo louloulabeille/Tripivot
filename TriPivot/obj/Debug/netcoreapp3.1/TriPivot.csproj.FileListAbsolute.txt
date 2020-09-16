@@ -1,0 +1,13 @@
+D:\source\TriPivot\TriPivot\bin\Debug\netcoreapp3.1\TriPivot.exe
+D:\source\TriPivot\TriPivot\bin\Debug\netcoreapp3.1\TriPivot.deps.json
+D:\source\TriPivot\TriPivot\bin\Debug\netcoreapp3.1\TriPivot.runtimeconfig.json
+D:\source\TriPivot\TriPivot\bin\Debug\netcoreapp3.1\TriPivot.runtimeconfig.dev.json
+D:\source\TriPivot\TriPivot\bin\Debug\netcoreapp3.1\TriPivot.dll
+D:\source\TriPivot\TriPivot\bin\Debug\netcoreapp3.1\TriPivot.pdb
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.csprojAssemblyReference.cache
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.AssemblyInfoInputs.cache
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.AssemblyInfo.cs
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.csproj.CoreCompileInputs.cache
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.dll
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.pdb
+D:\source\TriPivot\TriPivot\obj\Debug\netcoreapp3.1\TriPivot.genruntimeconfig.cache
